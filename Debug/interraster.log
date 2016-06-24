@@ -1,0 +1,18 @@
+﻿生成启动时间为 2016/6/13 星期一 8:47:47。
+     1>项目“C:\Users\DC\Desktop\毕设\最新代码\interraster\interraster\interraster.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (并行计算.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>c:\users\dc\desktop\毕设\最新代码\interraster\interraster\test.cpp(123): warning C4101: “gridy”: 未引用的局部变量
+     1>c:\users\dc\desktop\毕设\最新代码\interraster\interraster\test.cpp(122): warning C4101: “gridx”: 未引用的局部变量
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\DC\Desktop\毕设\最新代码\interraster\Debug\interraster.exe" /INCREMENTAL /NOLOGO OpenCL.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\DC\Desktop\毕设\最新代码\interraster\Debug\interraster.pdb" /SUBSYSTEM:CONSOLE /LARGEADDRESSAWARE:NO /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\DC\Desktop\毕设\最新代码\interraster\Debug\interraster.lib" /MACHINE:X86 Debug\gclFile.obj
+         Debug\gclTimer.obj
+         Debug\test.obj
+         interraster.vcxproj -> C:\Users\DC\Desktop\毕设\最新代码\interraster\Debug\interraster.exe
+     1>已完成生成项目“C:\Users\DC\Desktop\毕设\最新代码\interraster\interraster\interraster.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.60
